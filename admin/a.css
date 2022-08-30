@@ -1,0 +1,53 @@
+.masthead {
+    height: 100vh;
+    min-height: 800px;
+    background-color: transparent;
+    background-image: url('../assets/wave.png');
+    background-position: bottom right;
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/*@media screen and (max-width: 7168px) {
+    .masthead {
+        background-size: 1800% 70%;
+    }
+}*/
+
+.page-footer {
+    background-color: #2C3E50;
+    color: white;
+}
+
+.logo {
+    width: 100px;
+    position: absolute;
+    top: 20px;
+    left: 0;
+}
+
+.transparent {
+    background-color: white;
+}
+
+.white {
+    background-color: white;
+}
+
+
+.brand-container {
+    margin-bottom: 80px;
+}
+
+.form-daftar-sekolah, .form-daftar-siswa {
+    padding: 0 15vw;
+}
+#head{
+    color: #333333;
+    font-size: 19px;
+    font-weight: bold;
+}
+.footer{
+   margin-top: 90px;
+}
